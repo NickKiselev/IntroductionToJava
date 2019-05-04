@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9a38517-d3ec-4fe9-82b2-8d97cd81db9e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task1/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Exercise7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task1/Exercise2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCourses/Task1/Exercise2.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -309,12 +301,12 @@
       <updated>1556917276049</updated>
       <workItem from="1556917280764" duration="2499000" />
       <workItem from="1556958030820" duration="2392000" />
-      <workItem from="1556961003294" duration="10197000" />
+      <workItem from="1556961003294" duration="10570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15088000" />
+    <option name="totallyTimeSpent" value="15461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />

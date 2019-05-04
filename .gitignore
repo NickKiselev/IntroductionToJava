@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 490bbf72d8558c3c9c351ea2cda1602c1e1ce014
 # Compiled class file
 *.class
 
@@ -20,4 +24,8 @@
 *.rar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+<<<<<<< HEAD
 hs_err_pid*
+=======
+hs_err_pid*
+>>>>>>> 490bbf72d8558c3c9c351ea2cda1602c1e1ce014
