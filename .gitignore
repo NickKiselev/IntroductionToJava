@@ -23,8 +23,8 @@ release.properties
 ## IntelliJ
 ##########################
 *.iml
-.idea/
+#.idea/
 *.ipr
 *.iws
-out/
+#out/
 .idea_modules/
