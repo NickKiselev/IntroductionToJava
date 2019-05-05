@@ -25,6 +25,8 @@ public static void main(String[] args) {
         System.out.println("числа c и b одинаковы");
     }else if(a==b){
         System.out.println("числа a и b одинаковы");
+    }else{
+        System.out.println("все числа различны");
     }
 }
 
