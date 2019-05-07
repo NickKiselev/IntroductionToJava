@@ -5,7 +5,27 @@ import java.util.Scanner;
 public class Exercise4 {
 
 public static void main(String[] args) {
+    //exampleOne();
+    exampleTwo();
 
+}
+
+private static void exampleTwo(){
+    int num;
+    Scanner scanner = new Scanner(System.in);
+    System.out.println("Enter a four-digit number ");
+    num=scanner.nextInt();
+
+    if((num/1000 < num/100%10) && (num/100%10<num/10%10)){
+        System.out.println("Increasing");
+    }else if((num/1000 > num/100%10) && (num/100%10 > num/10%10)){
+        System.out.println("Decreasing");
+    }else{
+        System.out.println("Numbers don't form any sequence");
+    }
+}
+
+private static void exampleOne(){
     int num;
     int[] array = new int[4];
 
