@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9a38517-d3ec-4fe9-82b2-8d97cd81db9e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task3/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Exercise2/Fifth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Exercise2/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Exercise2/Fourth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Exercise2/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Exercise2/Sixth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Exercise2/Third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Exercise4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -309,12 +300,12 @@
       <workItem from="1557653457032" duration="667000" />
       <workItem from="1557698668809" duration="3327000" />
       <workItem from="1557737677234" duration="7776000" />
-      <workItem from="1557759629445" duration="4549000" />
+      <workItem from="1557759629445" duration="5112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81039000" />
+    <option name="totallyTimeSpent" value="81602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
