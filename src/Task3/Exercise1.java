@@ -1,29 +1,51 @@
 package Task3;
 
-import java.util.Random;
+import java.util.Scanner;
 
 public class Exercise1 {
-
 public static void main(String[] args) {
 
-    System.out.println("throws up a coin 1000 times...");
-    trowCoin();
+    int range;
+
+    Matrix matrix = new Matrix(5,5);
+
+    Scanner scanner = new Scanner(System.in);
+
+    System.out.println("ENTER THE RANGE OF VALUES...");
+
+    range = scanner.nextInt();
+
+    matrix.generateArray(matrix.getArray(),range);
+
+    matrix.showArray(matrix.getArray());
+
+    findMaxMin(matrix.getArray());
 }
 
-private static void trowCoin(){
-    int headsCount=0;
-    int tailsCount=0;
-    Random random = new Random();
-    int randomNumber;
-    for(int i=1;i<=1000;i++){
-        randomNumber= random.nextInt(2);
+private static void findMaxMin(int[][] array){
 
-        if(randomNumber==0){
-            headsCount++;
-        }else if(randomNumber==1){
-            tailsCount++;
+    int tmp = array.length;
+    int max = array[0][0];
+    int min = array[0][0];
+
+    for(int i = 0; i < tmp; i++){
+
+        for (int j = 0; j < tmp; j++){
+
+            if(array[i][j] > max) {
+                max = array[i][j];
+            }
+            if(array[i][j] < min){
+                min=array[i][j];
+            }
         }
     }
-    System.out.println("heads fell " + headsCount + " times \ntails fell " + tailsCount + " times");
+    showMaxMinValues(max, min);
+}
+
+private static void showMaxMinValues(int max, int min){
+
+    System.out.println("Maximum array element is " + max);
+    System.out.println("Minimum array element is " + min);
 }
 }

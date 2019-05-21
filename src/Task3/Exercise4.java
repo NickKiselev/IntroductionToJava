@@ -3,45 +3,39 @@ package Task3;
 import java.util.Scanner;
 
 public class Exercise4 {
-
 public static void main(String[] args) {
 
-    int x, y;
+    int range;
+
+    Matrix matrix = new Matrix(5,5);
 
     Scanner scanner = new Scanner(System.in);
 
-    System.out.println("Enter interval x and y...");
+    System.out.println("ENTER THE RANGE OF VALUES...");
 
-    x = scanner.nextInt();
-    y = scanner.nextInt();
+    range = scanner.nextInt();
 
-    System.out.println("Friendly numbers in this interval is ");
-    searchFriendlyNum(x,y);
+    matrix.generateArray(matrix.getArray(),range);
+
+    matrix.showArray(matrix.getArray());
+
+    transposition(matrix.getArray(),matrix);
 }
 
-private static int sum(int num){
-    int sum=0;
-    for(int i=1;i<=(num/2);i++){
-        if(num%i==0){
-            sum+=i;
+private static void transposition(int[][] array, Matrix matrix){
+    int length = array.length;
+    int tmp;
+
+    for(int i = 0; i < length; i++){
+        for (int j = i+1; j < length; j++){
+            tmp = array[i][j];
+            array[i][j] = array[j][i];
+            array[j][i] = tmp;
         }
     }
-    return sum;
+
+    matrix.showArray(array);
 }
 
-private static void searchFriendlyNum(int x, int y){
-    int count=0;
-    int sumOfDevFirst,sumOfDevSecond;
 
-    for(int i=x;i<y;i++){
-        sumOfDevFirst = sum(i);
-        sumOfDevSecond = sum(sumOfDevFirst);
-
-        if(sumOfDevFirst<y && sumOfDevSecond==i){
-            System.out.println(i);
-            count++;
-        }
-    }
 }
-}
-

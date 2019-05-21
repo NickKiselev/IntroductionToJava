@@ -1,43 +1,29 @@
 package Task2;
 
-import java.util.Scanner;
+import java.util.Random;
 
 public class Exercise1 {
+
 public static void main(String[] args) {
 
-    int xA,yA,xB,yB,xC,yC;
-
-    double ab,ac,bc,abSq,acSq,bcSq;
-
-    Scanner scanner = new Scanner(System.in);
-
-    System.out.println("Enter coordinates x1,y1, x2,y2, x3,y3");
-
-    xA=scanner.nextInt();
-    yA=scanner.nextInt();
-
-    xB=scanner.nextInt();
-    yB=scanner.nextInt();
-
-    xC=scanner.nextInt();
-    yC=scanner.nextInt();
-
-    ab=Math.pow(((xB-xA)*(xB-xA))+((yB-yA)*(yB-yA)),1.0/2);
-    ac=Math.pow(((xC-xA)*(xC-xA))+((yC-yA)*(yC-yA)),1.0/2);
-    bc=Math.pow(((xC-xB)*(xC-xB))+((yC-yB)*(yC-yB)),1.0/2);
-
-    abSq=ab*ab;
-    acSq=ac*ac;
-    bcSq=bc*bc;
-
-    if(((acSq+bcSq)==abSq) || ((abSq+acSq)==bcSq)||((abSq+bcSq)==acSq)){
-        System.out.println("Triangle is rectangular ");
-    }else{
-        System.out.print("Triangle isn't rectangular");
-    }
-
+    System.out.println("throws up a coin 1000 times...");
+    trowCoin();
 }
 
+private static void trowCoin(){
+    int headsCount=0;
+    int tailsCount=0;
+    Random random = new Random();
+    int randomNumber;
+    for(int i=1;i<=1000;i++){
+        randomNumber= random.nextInt(2);
 
-
+        if(randomNumber==0){
+            headsCount++;
+        }else if(randomNumber==1){
+            tailsCount++;
+        }
+    }
+    System.out.println("heads fell " + headsCount + " times \ntails fell " + tailsCount + " times");
+}
 }
