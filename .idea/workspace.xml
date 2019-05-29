@@ -6,61 +6,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9a38517-d3ec-4fe9-82b2-8d97cd81db9e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task1pt2/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1pt2/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1pt2/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1pt2/diagrams/exercise1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1pt2/diagrams/exercise3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Books/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/1984.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/ClockworkOrange.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/Onthewesternfrontwithoutchange.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/Stranger.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Enums/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Enums/Genres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Enums/PublicationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/Cosmopolitan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/GQ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/National Geographic.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/Newsweek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/Times.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/Vogue.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Magazines/Formats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Magazines/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Magazines/Months.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Parent/Polygraphy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Parent/PrintingEdition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Paths/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/ReadFromFile/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Search/SearchByColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Search/SearchByFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Search/SearchByGenre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Sort/AlphabetComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task2/Exercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCourses/Task2/Exercise1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task2/Exercise2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task2/Exercise3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCourses/Task2/Exercise3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task2/Exercise4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCourses/Task2/Exercise4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task2/diagrams/exercise1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCourses/Task2/diagrams/exercise1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task2/diagrams/exercise2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task2/diagrams/exercise3.2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task2/diagrams/exercise3.3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task2/diagrams/exercise3.4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task2/diagrams/exercise3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCourses/Task2/diagrams/exercise3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise2/Fifth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise2/First.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise2/Fourth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise2/Second.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise2/Sixth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise2/Third.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1pt2/Exercise2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Exercise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Exercise4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/diagrams/exercise1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/diagrams/exercise1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/diagrams/exercise2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1pt2/diagrams/exercise2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/diagrams/exercise3.2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1pt2/diagrams/exercise3.2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/diagrams/exercise3.3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1pt2/diagrams/exercise3.3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/diagrams/exercise3.4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1pt2/diagrams/exercise3.4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/diagrams/exercise3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/diagrams/exercise3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/Exercise2/Fifth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Exercise2/Fifth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/Exercise2/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Exercise2/First.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/Exercise2/Fourth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Exercise2/Fourth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/Exercise2/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Exercise2/Second.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/Exercise2/Sixth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Exercise2/Sixth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/Exercise2/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Exercise2/Third.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3/Exercise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3/Exercise4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/diagrams/exercise1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/diagrams/exercise2.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/diagrams/exercise2.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/diagrams/exercise2.2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/diagrams/exercise2.2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/diagrams/exercise2.3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/diagrams/exercise2.3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/diagrams/exercise2.4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/diagrams/exercise2.4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/diagrams/exercise2.5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/diagrams/exercise2.5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/diagrams/exercise2.6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/diagrams/exercise2.6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/diagrams/exercise3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/diagrams/exercise4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/diagrams/exercise4.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,54 +48,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercise1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task3/Exercise1.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Task4/Main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="38" column="32" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exercise2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task3/Exercise2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1314">
-              <caret line="63" column="56" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exercise3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task3/Exercise3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="142" column="29" selection-start-line="142" selection-start-column="29" selection-end-line="142" selection-end-column="29" />
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <element signature="method#isMinimum#0;class#Exercise3#0" />
-                <element signature="method#isMaximum#0;class#Exercise3#0" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise4.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Task3/Exercise4.java">
+      <file leaf-file-name="Reader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task4/ReadFromFile/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            <state relative-caret-position="144">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Matrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task3/Matrix.java">
+      <file leaf-file-name="Location.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task4/Paths/Location.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="68">
+              <caret line="4" column="97" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task4/Books/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding>
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#767#768#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Polygraphy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task4/Parent/Polygraphy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="814">
+              <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlphabetComparator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task4/Sort/AlphabetComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchByColor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByColor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchByFormat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchByGenre.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByGenre.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,7 +160,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -148,41 +178,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Task1/exercise2.java" />
-        <option value="$PROJECT_DIR$/src/Task1/Exercise2.java" />
-        <option value="$PROJECT_DIR$/src/Task1/Exercise7.java" />
-        <option value="$PROJECT_DIR$/src/Task1/Exercise1.java" />
-        <option value="$PROJECT_DIR$/src/Task2/Exercise2.java" />
-        <option value="$PROJECT_DIR$/src/Task2/Exercise1.java" />
-        <option value="$PROJECT_DIR$/src/Task2/Exercise3.java" />
-        <option value="$PROJECT_DIR$/src/Task2/tesst.java" />
-        <option value="$PROJECT_DIR$/src/Task1/Exercise3.java" />
-        <option value="$PROJECT_DIR$/src/Task1/Exercise4.java" />
-        <option value="$PROJECT_DIR$/src/Task1/Exercise5.java" />
-        <option value="$PROJECT_DIR$/src/Task1/Exercise6.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2Second.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2Third.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2Fourth.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2First.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2Fifth.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2Sixth.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2/Exercise2Fifth.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2/Exercise2Third.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2/Exercise2Sixth.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2/Exercise2Second.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2/Exercise2Fourth.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2/Exercise2First.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2/Third.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2/Fifth.java" />
-        <option value="$PROJECT_DIR$/src/temp.java" />
-        <option value="$PROJECT_DIR$/src/test.java" />
-        <option value="$PROJECT_DIR$/src/Task2/Exercise4.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise2.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise4.java" />
-        <option value="$PROJECT_DIR$/src/Task3/CheckingAngles.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise3.java" />
-        <option value="$PROJECT_DIR$/src/Task3/Exercise1.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Enums/PublicationType.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Factory/BookFactory.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Parent/PrintingEdition.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Test.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/Шерлок Холмс.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/Magazines/Formats.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Magazines/Months.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Forbes.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/Game of Thrones" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/Чужак.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/Clockwork Orange.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/On the western front without change.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/NameCompare.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Magazines/Magazine.java" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/451° по Фаренгейту.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/1984.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/The Castle" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/Dead Souls" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/The Divine Comedy" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/The Idiot" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfMagazines/Times.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfMagazines/People" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfMagazines/Newsweek.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfMagazines/National Geographic.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfMagazines/Cosmopolitan.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfMagazines/Vogue.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/ExampleOfMagazines/GQ.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/Enums/Genres.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Enums/Colors.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Paths/Location.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Books/SearchByGenre/Search.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Sort/BooksComparator.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Sort/AlphabetComparator.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Sort/PagesComparator.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Books/Book.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Main.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Books/BookTest.java" />
+        <option value="$PROJECT_DIR$/src/Task4/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/Task4/test/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/Task4/test/BookTest.java" />
+        <option value="$PROJECT_DIR$/src/Task4/ReadFromFile/Reader.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Parent/Polygraphy.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Parent/PolygraphyTest.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Search/SearchByFormatTest.java" />
+        <option value="$PROJECT_DIR$/src/Task4/test/SearchByFormatTest.java" />
+        <option value="$PROJECT_DIR$/src/Task4/test/ReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/Task4/ReadFromFile/ReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/Task4/test/PolygraphyTest.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Search/SearchByColor.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Search/SearchByFormat.java" />
       </list>
     </option>
   </component>
@@ -209,8 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,27 +271,108 @@
               <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Task3" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+              <item name="Books" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+              <item name="Enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+              <item name="Magazines" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+              <item name="Parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+              <item name="Paths" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+              <item name="ReadFromFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Task4.ReadFromFile" />
+      <recent name="Task4.Parent" />
+      <recent name="Task4.Search" />
+      <recent name="Task4" />
+      <recent name="Task4.Books" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MY FILES\Java\JavaCourses\src\Task4\Books\ExampleOfBooks" />
+      <recent name="E:\MY FILES\Java\JavaCourses" />
+      <recent name="E:\MY FILES\Java\JavaCourses\src" />
+      <recent name="E:\MY FILES\Java\JavaCourses\src\Task4" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\MY FILES\Java\JavaCourses\src\Task3\Exercise2" />
     </key>
@@ -264,47 +389,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise3">
-    <configuration name="Exercise1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task3.Exercise1" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4.Main.Main" />
       <module name="JavaCourses" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task3.Exercise2" />
-      <module name="JavaCourses" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task3.Exercise3" />
-      <module name="JavaCourses" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Exercise4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task3.Exercise4" />
-      <module name="JavaCourses" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task3.*" />
+          <option name="PATTERN" value="Task4.Main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,10 +404,120 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="temp" />
+    <configuration name="ReaderTest.getArray (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCourses" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.ReadFromFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Task4.ReadFromFile" />
+      <option name="MAIN_CLASS_NAME" value="Task4.ReadFromFile.ReaderTest" />
+      <option name="METHOD_NAME" value="getArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ReaderTest.getArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Task4.test" />
+      <option name="MAIN_CLASS_NAME" value="Task4.test.ReaderTest" />
+      <option name="METHOD_NAME" value="getArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ReaderTest.getArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.ReadFromFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Task4.ReadFromFile" />
+      <option name="MAIN_CLASS_NAME" value="Task4.ReadFromFile.ReaderTest" />
+      <option name="METHOD_NAME" value="getArray()" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ReaderTest.testArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.ReadFromFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Task4.ReadFromFile" />
+      <option name="MAIN_CLASS_NAME" value="Task4.ReadFromFile.ReaderTest" />
+      <option name="METHOD_NAME" value="testArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ReaderTest.testNotNullPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCourses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Task4.test" />
+      <option name="MAIN_CLASS_NAME" value="Task4.test.ReaderTest" />
+      <option name="METHOD_NAME" value="testNotNullPath" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -366,19 +568,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.temp" />
-      <item itemvalue="Application.Exercise1 (1)" />
-      <item itemvalue="Application.Exercise2" />
-      <item itemvalue="Application.Exercise4 (1)" />
-      <item itemvalue="Application.Exercise3" />
+      <item itemvalue="JUnit.ReaderTest.getArray" />
+      <item itemvalue="JUnit.ReaderTest.testNotNullPath" />
+      <item itemvalue="JUnit.ReaderTest.getArray (1)" />
+      <item itemvalue="JUnit.ReaderTest.testArray" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise3" />
-        <item itemvalue="Application.Exercise2" />
-        <item itemvalue="Application.Exercise4 (1)" />
-        <item itemvalue="Application.Exercise1 (1)" />
-        <item itemvalue="Application.temp" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ReaderTest.getArray (1)" />
+        <item itemvalue="JUnit.ReaderTest.testArray" />
+        <item itemvalue="JUnit.ReaderTest.getArray" />
+        <item itemvalue="JUnit.ReaderTest.testNotNullPath" />
       </list>
     </recent_temporary>
   </component>
@@ -416,27 +618,74 @@
       <workItem from="1558121745688" duration="3418000" />
       <workItem from="1558338509620" duration="3253000" />
       <workItem from="1558361317774" duration="12164000" />
+      <workItem from="1558463568663" duration="1394000" />
+      <workItem from="1558786935411" duration="15854000" />
+      <workItem from="1558863801756" duration="14193000" />
+      <workItem from="1558946787426" duration="14995000" />
+      <workItem from="1559051864806" duration="13587000" />
+      <workItem from="1559136800807" duration="949000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SearchByFormatTest_createObj - 2019.05.28 at 20h 15m 08s.xml">
+      <configuration name="SearchByFormatTest.createObj" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReaderTest_getArray - 2019.05.28 at 20h 20m 22s.xml">
+      <configuration name="ReaderTest.getArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReaderTest_testNotNullPath - 2019.05.28 at 21h 36m 45s.xml">
+      <configuration name="ReaderTest.testNotNullPath" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReaderTest_getArray_(1) - 2019.05.28 at 21h 40m 30s.xml">
+      <configuration name="ReaderTest.getArray (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReaderTest_getArray_(1) - 2019.05.28 at 21h 40m 57s.xml">
+      <configuration name="ReaderTest.getArray (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReaderTest_testArray - 2019.05.28 at 21h 41m 49s.xml">
+      <configuration name="ReaderTest.testArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReaderTest_getArray_(1) - 2019.05.28 at 21h 42m 01s.xml">
+      <configuration name="ReaderTest.getArray (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReaderTest_getArray_(1) - 2019.05.28 at 21h 42m 10s.xml">
+      <configuration name="ReaderTest.getArray (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReaderTest_testArray - 2019.05.28 at 21h 42m 12s.xml">
+      <configuration name="ReaderTest.testArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReaderTest_getArray_(1) - 2019.05.28 at 21h 42m 45s.xml">
+      <configuration name="ReaderTest.getArray (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107621000" />
+    <option name="totallyTimeSpent" value="168593000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295838" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295838" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50061125" side_tool="true" weight="0.30033746" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295838" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49938875" weight="0.3577053" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49938875" weight="0.34083238" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.33858266" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9111361" visible="true" weight="0.1314181" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9111361" visible="true" weight="0.19254279" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.088863894" side_tool="true" weight="0.11919315" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -448,19 +697,21 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295838" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49938875" visible="true" weight="0.39482564" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49938875" visible="true" weight="0.3577053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9111361" visible="true" weight="0.1301956" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9111361" visible="true" weight="0.13386308" />
       <window_info id="Structure" order="1" sideWeight="0.088863894" side_tool="true" weight="0.11919315" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932507" />
@@ -468,13 +719,12 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.33858266" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061125" side_tool="true" weight="0.30033746" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295838" />
-      <window_info id="Favorites" order="4" sideWeight="0.080989875" side_tool="true" weight="0.10696822" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3295838" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="4" sideWeight="0.080989875" side_tool="true" weight="0.10696822" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,342 +735,273 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise7.java">
+    <entry file="file://$PROJECT_DIR$/src/Task3/Exercise1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="89">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise1.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Newspapers/Newspaper.java" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/Albums/Album.java" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/Factory/BookFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/Parent/PrintingEdition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="363">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise7.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Test.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/Шерлок Холмс.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="-458">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="665" column="25" selection-start-line="665" selection-start-column="25" selection-end-line="665" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="2364" column="26" selection-start-line="2364" selection-start-column="26" selection-end-line="2364" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/tesst.java" />
-    <entry file="file://$PROJECT_DIR$/src/Task1pt2/Exercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1pt2/Exercise3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="327" column="15" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="32" column="62" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/Second.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/Third.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1/Exercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/First.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/Fourth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/Fifth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/Sixth.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCourses.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/temp.java" />
-    <entry file="file://$PROJECT_DIR$/src/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/Task1pt2/Exercise1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task1pt2/Exercise4.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/Stranger.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise3.java">
+    <entry file="file://$PROJECT_DIR$/TheCastle" />
+    <entry file="file://$PROJECT_DIR$/TheIdiot" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/Forbes.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/National Geographic.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="66" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="66" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise1.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/Cosmopolitan.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/First.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/Vogue.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/Fourth.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/GQ.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="164">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/Second.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/People" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/1984.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="57" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="57" />
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/Sixth.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/ClockworkOrange.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/Third.java">
+    <entry file="file://$PROJECT_DIR$/GameofThrones" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/Onthewesternfrontwithoutchange.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="56" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="56" />
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Exercise2/Fifth.java">
+    <entry file="file://$PROJECT_DIR$/TheDivineComedy" />
+    <entry file="file://$PROJECT_DIR$/DeadSouls" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/TheCastle.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="82" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="82" />
+        <state relative-caret-position="132">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task3/CheckingAngles.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/Times.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/Newsweek.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Enums/PublicationType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Sort/PagesComparator.java" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/Enums/Genres.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="143" column="25" selection-start-line="143" selection-start-column="25" selection-end-line="143" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/NameCompare.java" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/test/BookTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/test/MainTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/test/BookTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/Magazines/Formats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Magazines/Months.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Enums/Colors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Magazines/Magazine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/test/ReaderTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/test/PolygraphyTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/test/SearchByFormatTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Task4/ReadFromFile/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task3/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding>
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task3/Exercise1.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Paths/Location.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="32" />
+        <state relative-caret-position="68">
+          <caret line="4" column="97" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="97" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task3/Exercise2.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Books/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1314">
-          <caret line="63" column="56" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task3/Exercise3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="142" column="29" selection-start-line="142" selection-start-column="29" selection-end-line="142" selection-end-column="29" />
+        <state relative-caret-position="272">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
           <folding>
-            <element signature="method#isMinimum#0;class#Exercise3#0" />
-            <element signature="method#isMaximum#0;class#Exercise3#0" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task3/Exercise4.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Parent/Polygraphy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        <state relative-caret-position="814">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/ReadFromFile/ReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Sort/AlphabetComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByGenre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -888,6 +1069,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
