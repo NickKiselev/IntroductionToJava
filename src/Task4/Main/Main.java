@@ -13,7 +13,11 @@ import Task4.Paths.Location;
 import Task4.ReadFromFile.Reader;
 import Task4.Sort.AlphabetComparator;
 
+import java.util.logging.Logger;
+
 public class Main {
+
+    private static final Logger log = Logger.getLogger(String.valueOf(Main.class));
 
 public static void main(String[] args) {
         start();
@@ -65,6 +69,9 @@ public static void main(String[] args) {
         System.out.println("---------------------------------------");
         searchingMagazinesByFormat(mag1, mag2, mag3, mag4, mag5, mag6, mag7);
         System.out.println("---------------------------------------");
+
+        log.info("info main");
+
     }
 
     private static void sortByGenreBooks(Polygraphy b1, Polygraphy b2, Polygraphy b3,
@@ -73,12 +80,16 @@ public static void main(String[] args) {
         SearchByGenre search = new SearchByGenre();
         search.searchPagesByGenreBooks(search.addToBookArray(b1, b2, b3, b4, b5, b6, b7, b8, b9));
 
+        log.info("info sortByGenre");
+
     }
 
     private static void sortByGenreMagazines(Polygraphy m1, Polygraphy m2, Polygraphy m3, Polygraphy m4,
                                              Polygraphy m5, Polygraphy m6, Polygraphy m7){
         SearchByGenre search = new SearchByGenre();
         search.searchPagesByGenreMag(search.addToMagArray(m1, m2, m3, m4, m5, m6, m7));
+
+        log.info("info sortByGenre");
 
     }
 
@@ -87,6 +98,8 @@ public static void main(String[] args) {
                                             Polygraphy b7, Polygraphy b8, Polygraphy b9){
         AlphabetComparator aC = new AlphabetComparator();
         aC.addToTreeSet(b1, b2, b3, b4, b5, b6, b7, b8, b9);
+
+        log.info("info sortByAlphabet");
     }
 
     private static void searchingBooksByColor(Polygraphy b1, Polygraphy b2, Polygraphy b3,
@@ -95,6 +108,8 @@ public static void main(String[] args) {
 
         SearchByColor searchByColor = new SearchByColor();
         searchByColor.searchByColor(Colors.YELLOW, searchByColor.addToBookArray(b1, b2, b3, b4, b5, b6, b7, b8, b9));
+
+        log.info("info sortByColor");
     }
 
     private static void searchingMagazinesByColor(Polygraphy m1, Polygraphy m2, Polygraphy m3,
@@ -103,6 +118,8 @@ public static void main(String[] args) {
 
         SearchByColor searchByColor = new SearchByColor();
         searchByColor.searchByColor(Colors.RED, searchByColor.addToMagArray(m1, m2, m3, m4, m5, m6, m7));
+
+        log.info("info sortByColor");
     }
 
     private static void searchingMagazinesByFormat(Polygraphy m1, Polygraphy m2, Polygraphy m3,
@@ -111,5 +128,7 @@ public static void main(String[] args) {
 
         SearchByFormat searchByFormat = new SearchByFormat();
         searchByFormat.searchByFormat(Formats.A3, searchByFormat.addToMagArray(m1, m2, m3, m4, m5, m6, m7));
+
+        log.info("info sortByFormat");
     }
 }
