@@ -1,13 +1,17 @@
 package Task4.Parent;
 
+import Task4.Checking.CheckFile;
 import Task4.Enums.Colors;
 import Task4.Enums.Genres;
 import Task4.Enums.PublicationType;
+import Task4.Except.ContainsException;
 import Task4.Magazines.Formats;
 import java.util.Objects;
+import java.util.logging.Logger;
 
 public class Polygraphy implements PrintingEdition {
 
+    private final Logger log = Logger.getLogger(String.valueOf(Polygraphy.class));
     private String countOfPages;
     private String yearOfPublish;
     private String authorName;
@@ -17,6 +21,7 @@ public class Polygraphy implements PrintingEdition {
     private Colors coverColor;
     private PublicationType type;
     private Formats format;
+    CheckFile checkFile = new CheckFile();
 
     public Polygraphy(String[] param){
         this.title = param[0];
@@ -44,8 +49,15 @@ public class Polygraphy implements PrintingEdition {
     public int getNumOfPages() {
         String str = countOfPages;
         String separator = "/";
-        String[] subStr = str.split(separator);
-        return Integer.parseInt(subStr[1]);
+        try {
+            if(checkFile.isContains(str, separator)){
+                String[] subStr = str.split(separator);
+                return Integer.parseInt(subStr[1]);
+            }
+        } catch (ContainsException e) {
+            e.printStackTrace();
+        }
+        return 0;
     }
 
     @Override
@@ -63,32 +75,60 @@ public class Polygraphy implements PrintingEdition {
     public int getYearOfPublishing() {
         String str = yearOfPublish;
         String separator = "/";
-        String[] subStr = str.split(separator);
-        return Integer.parseInt(subStr[1]);
+        try {
+            if(checkFile.isContains(str, separator)){
+                String[] subStr = str.split(separator);
+                return Integer.parseInt(subStr[1]);
+            }
+        } catch (ContainsException e) {
+            e.printStackTrace();
+        }
+        return 0;
     }
 
     @Override
     public String getPublishingHouse() {
         String str = publishHouse;
         String separator = "/";
-        String[] subStr = str.split(separator);
-        return subStr[1];
+        try {
+            if(checkFile.isContains(str, separator)){
+                String[] subStr = str.split(separator);
+                return subStr[1];
+            }
+        } catch (ContainsException e) {
+            e.printStackTrace();
+        }
+        return null;
     }
 
     @Override
     public String getCityOfPublishing() {
         String str = cityOfPublish;
         String separator = "/";
-        String[] subStr = str.split(separator);
-        return subStr[1];
+        try {
+            if(checkFile.isContains(str, separator)){
+                String[] subStr = str.split(separator);
+                return subStr[1];
+            }
+        } catch (ContainsException e) {
+            e.printStackTrace();
+        }
+        return null;
     }
 
     @Override
     public String getTitle() {
         String str = title;
         String separator = "/";
-        String[] subStr = str.split(separator);
-        return subStr[1];
+        try {
+            if(checkFile.isContains(str, separator)){
+                String[] subStr = str.split(separator);
+                return subStr[1];
+            }
+        } catch (ContainsException e) {
+            e.printStackTrace();
+        }
+        return null;
     }
 
     public PublicationType getType(){

@@ -2,18 +2,18 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/Task2/Exercise2/Fourth.java" />
+    <bookmark url="file://$PROJECT_DIR$/src/Task4/Except/ContainsException.java" line="5" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9a38517-d3ec-4fe9-82b2-8d97cd81db9e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dot/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dot/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dot/Section.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4/res/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Checking/CheckFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Except/ContainsException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCourses/Task3/Exercise3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3/Exercise3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task4/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task4/Parent/Polygraphy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4/Parent/Polygraphy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task4/ReadFromFile/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4/ReadFromFile/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task4/Search/SearchByGenre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4/Search/SearchByGenre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task4/res/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4/res/log4j.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,31 +31,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task4/Main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-316">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1984.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/1984.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchByColor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByColor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="1362">
+              <caret line="110" selection-start-line="110" selection-end-line="110" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,14 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchByFormat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByFormat.java">
+      <file leaf-file-name="Reader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task4/ReadFromFile/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -78,20 +52,11 @@
       <file leaf-file-name="SearchByGenre.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByGenre.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-530">
-              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="17">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task4/res/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -99,8 +64,8 @@
       <file leaf-file-name="Polygraphy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task4/Parent/Polygraphy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
-              <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+            <state relative-caret-position="375">
+              <caret line="106" column="30" lean-forward="true" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,29 +73,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task4/Books/Book.java">
+      <file leaf-file-name="CheckFile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task4/Checking/CheckFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="455">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Colors.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task4/Enums/Colors.java">
+      <file leaf-file-name="ContainsException.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Task4/Except/ContainsException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reader.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Task4/ReadFromFile/Reader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="190">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -158,11 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Task4/Magazines/Formats.java" />
-        <option value="$PROJECT_DIR$/src/Task4/Magazines/Months.java" />
-        <option value="$PROJECT_DIR$/src/Task4/Forbes.txt" />
-        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/Game of Thrones" />
-        <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/Чужак.txt" />
         <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/Clockwork Orange.txt" />
         <option value="$PROJECT_DIR$/src/Task4/ExampleOfBooks/On the western front without change.txt" />
         <option value="$PROJECT_DIR$/src/Task4/NameCompare.java" />
@@ -193,7 +148,6 @@
         <option value="$PROJECT_DIR$/src/Task4/MainTest.java" />
         <option value="$PROJECT_DIR$/src/Task4/test/MainTest.java" />
         <option value="$PROJECT_DIR$/src/Task4/test/BookTest.java" />
-        <option value="$PROJECT_DIR$/src/Task4/Parent/Polygraphy.java" />
         <option value="$PROJECT_DIR$/src/Task4/Parent/PolygraphyTest.java" />
         <option value="$PROJECT_DIR$/src/Task4/Search/SearchByFormatTest.java" />
         <option value="$PROJECT_DIR$/src/Task4/test/SearchByFormatTest.java" />
@@ -206,9 +160,15 @@
         <option value="$PROJECT_DIR$/src/Dot/Point.java" />
         <option value="$PROJECT_DIR$/src/Dot/Section.java" />
         <option value="$PROJECT_DIR$/src/Dot/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task4/ReadFromFile/Reader.java" />
         <option value="$PROJECT_DIR$/src/Task4/res/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/Task4/ReadFromFile/Reader.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Search/SearchByGenre.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/1984.txt" />
+        <option value="$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/DeadSouls.txt" />
         <option value="$PROJECT_DIR$/src/Task4/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Parent/Polygraphy.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Checking/CheckFile.java" />
+        <option value="$PROJECT_DIR$/src/Task4/Except/ContainsException.java" />
       </list>
     </option>
   </component>
@@ -235,6 +195,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,14 +235,14 @@
               <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Task4" type="462c0819:PsiDirectoryNode" />
-              <item name="Enums" type="462c0819:PsiDirectoryNode" />
+              <item name="Checking" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Task4" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="Except" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
@@ -289,33 +251,10 @@
               <item name="Task4" type="462c0819:PsiDirectoryNode" />
               <item name="Parent" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Task4" type="462c0819:PsiDirectoryNode" />
-              <item name="ReadFromFile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Task4" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCourses" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Task4" type="462c0819:PsiDirectoryNode" />
-              <item name="Search" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -570,7 +509,9 @@
       <workItem from="1559051864806" duration="13587000" />
       <workItem from="1559136800807" duration="3454000" />
       <workItem from="1559152361838" duration="506000" />
-      <workItem from="1559679515278" duration="1907000" />
+      <workItem from="1559679515278" duration="2642000" />
+      <workItem from="1559987095844" duration="2662000" />
+      <workItem from="1560107012434" duration="467000" />
     </task>
     <servers />
   </component>
@@ -607,7 +548,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173511000" />
+    <option name="totallyTimeSpent" value="177496000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -624,7 +565,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295838" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295838" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50061125" side_tool="true" weight="0.30033746" />
       <window_info anchor="right" id="Maven Projects" order="3" />
@@ -633,7 +573,7 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49938875" weight="0.5253093" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.33858266" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9111361" visible="true" weight="0.19743276" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9111361" visible="true" weight="0.20232274" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.088863894" side_tool="true" weight="0.11919315" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -646,16 +586,18 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295838" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295838" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9111361" visible="true" weight="0.13386308" />
       <window_info id="Structure" order="1" sideWeight="0.088863894" side_tool="true" weight="0.11919315" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295838" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49938875" visible="true" weight="0.3577053" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Designer" order="2" />
@@ -667,11 +609,10 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061125" side_tool="true" weight="0.30033746" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="4" sideWeight="0.080989875" side_tool="true" weight="0.10696822" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3295838" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="4" sideWeight="0.080989875" side_tool="true" weight="0.10696822" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -686,9 +627,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TheCastle" />
-    <entry file="file://$PROJECT_DIR$/TheIdiot" />
-    <entry file="file://$PROJECT_DIR$/src/Task4/Forbes.txt" />
     <entry file="file://$PROJECT_DIR$/src/Task4/Magazines/ExampleOfMagazines/National Geographic.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -877,37 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task4/Parent/Polygraphy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task4/Books/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task4/Enums/Colors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task4/res/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -918,39 +825,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByGenre.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByColor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-530">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="17">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task4/Main/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/res/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-316">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="58">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Enums/Colors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Books/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/1984.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByColor.java">
+    <entry file="file://$PROJECT_DIR$/src/Task4/Books/ExampleOfBooks/DeadSouls.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1362">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -959,8 +882,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Task4/ReadFromFile/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Search/SearchByGenre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Parent/Polygraphy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="106" column="30" lean-forward="true" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Checking/CheckFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Except/ContainsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

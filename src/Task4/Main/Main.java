@@ -19,7 +19,7 @@ public class Main {
 
     private static final Logger log = Logger.getLogger(String.valueOf(Main.class));
 
-public static void main(String[] args) {
+    public static void main(String[] args) {
         start();
     }
 
@@ -70,7 +70,7 @@ public static void main(String[] args) {
         searchingMagazinesByFormat(mag1, mag2, mag3, mag4, mag5, mag6, mag7);
         System.out.println("---------------------------------------");
 
-        log.info("info main");
+        log.info("start");
 
     }
 

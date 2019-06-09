@@ -23,7 +23,7 @@ public class Reader {
 
         } catch (IOException e) {
             e.printStackTrace();
-            log.info("err");
+            log.info("error");
             }
         return array;
     }

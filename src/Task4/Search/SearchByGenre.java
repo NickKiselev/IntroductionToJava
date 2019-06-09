@@ -99,13 +99,13 @@ public class SearchByGenre {
         System.out.println(sb);
     }
 
-    private void outputStringMag(int news, int interview, int repotage, int fashion){
-    StringBuffer sb = new StringBuffer();
-    System.out.println("NUMBER OF MAGAZINES PAGES BY GENRE");
-    sb.append("NEWS - " + news + "\n")
-            .append("INTERVIEW - " + interview + "\n")
-            .append("REPORTAGE - " + repotage + "\n")
-            .append("FASHION - " + fashion + "\n");
-    System.out.println(sb);
+    private void outputStringMag(int news, int interview, int reportage, int fashion){
+        StringBuffer sb = new StringBuffer();
+        System.out.println("NUMBER OF MAGAZINES PAGES BY GENRE");
+        sb.append("NEWS - " + news + "\n")
+                .append("INTERVIEW - " + interview + "\n")
+                .append("REPORTAGE - " + reportage + "\n")
+                .append("FASHION - " + fashion + "\n");
+        System.out.println(sb);
     }
 }
