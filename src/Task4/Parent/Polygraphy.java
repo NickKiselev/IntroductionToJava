@@ -7,11 +7,9 @@ import Task4.Enums.PublicationType;
 import Task4.Except.ContainsException;
 import Task4.Magazines.Formats;
 import java.util.Objects;
-import java.util.logging.Logger;
 
 public class Polygraphy implements PrintingEdition {
 
-    private final Logger log = Logger.getLogger(String.valueOf(Polygraphy.class));
     private String countOfPages;
     private String yearOfPublish;
     private String authorName;
