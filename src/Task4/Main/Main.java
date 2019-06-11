@@ -44,34 +44,31 @@ public class Main {
         Polygraphy mag6 = new Magazine(reader.getArray(Location.times), Colors.RED, Genres.NEWS, Formats.A3);
         Polygraphy mag7 = new Magazine(reader.getArray(Location.vogue), Colors.BLUE, Genres.FASHION, Formats.A3);
 
-        System.out.println("READ THE TOTAL NUMBER OF PAGES BY GENRE");
-        System.out.println("---------------------------------------");
+        log.info("READ THE TOTAL NUMBER OF PAGES BY GENRE");
+        log.info("---------------------------------------");
         sortByGenreBooks(book1, book2, book3, book4, book5, book6, book7, book8, book9);
         sortByGenreMagazines(mag1, mag2, mag3, mag4, mag5, mag6, mag7);
 
-        System.out.println("---------------------------------------");
-        System.out.println("SORTING BOOKS BY ALPHABET");
-        System.out.println("---------------------------------------");
+        log.info("---------------------------------------");
+        log.info("SORTING BOOKS BY ALPHABET");
+        log.info("---------------------------------------");
         sortBooksByAlphabet(book1, book2, book3, book4, book5, book6, book7, book8, book9);
 
-        System.out.println("---------------------------------------");
-        System.out.println("SEARCHING BOOKS BY YELLOW COLOR");
-        System.out.println("---------------------------------------");
+        log.info("---------------------------------------");
+        log.info("SEARCHING BOOKS BY YELLOW COLOR");
+        log.info("---------------------------------------");
         searchingBooksByColor(book1, book2, book3, book4, book5, book6, book7, book8, book9);
 
-        System.out.println("---------------------------------------");
-        System.out.println("SEARCHING MAGAZINES BY RED COLOR");
-        System.out.println("---------------------------------------");
+        log.info("---------------------------------------");
+        log.info("SEARCHING MAGAZINES BY RED COLOR");
+        log.info("---------------------------------------");
         searchingMagazinesByColor(mag1, mag2, mag3, mag4, mag5, mag6, mag7);
 
-        System.out.println("---------------------------------------");
-        System.out.println("SEARCHING MAGAZINES BY FORMATS");
-        System.out.println("---------------------------------------");
+        log.info("---------------------------------------");
+        log.info("SEARCHING MAGAZINES BY FORMATS");
+        log.info("---------------------------------------");
         searchingMagazinesByFormat(mag1, mag2, mag3, mag4, mag5, mag6, mag7);
-        System.out.println("---------------------------------------");
-
-        log.info("start");
-
+        log.info("---------------------------------------");
     }
 
     private static void sortByGenreBooks(Polygraphy b1, Polygraphy b2, Polygraphy b3,
