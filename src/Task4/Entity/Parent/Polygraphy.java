@@ -120,7 +120,7 @@ public PublicationType getType() {
     return type;
 }
 
-private String splitLine(String param) {
+protected String splitLine(String param) {
     String[] subStr = param.split(SEPARATOR);
     return subStr[1];
 }

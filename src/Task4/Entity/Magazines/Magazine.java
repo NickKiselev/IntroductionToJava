@@ -26,17 +26,11 @@ public class Magazine extends Polygraphy {
     }
 
     public String getMonths() {
-        String str = months;
-        String separator = "/";
-        String[] subStr = str.split(separator);
-        return subStr[1];
+        return splitLine(months);
     }
 
     public int getMagazineNum() {
-        String str = magazineNum;
-        String separator = "/";
-        String[] subStr = str.split(separator);
-        return Integer.parseInt(subStr[1]);
+        return Integer.parseInt(splitLine(magazineNum));
     }
 
     public Formats getFormat() {
