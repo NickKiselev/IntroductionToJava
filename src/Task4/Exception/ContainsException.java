@@ -1,4 +1,4 @@
-package Task4.Except;
+package Task4.Exception;
 
 public class ContainsException extends Exception {
 

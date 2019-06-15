@@ -1,7 +1,8 @@
-package Task4.Sort;
+package Task4.Logic.Sort;
 
-import Task4.Parent.Polygraphy;
+import Task4.Entity.Parent.Polygraphy;
 
+import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.TreeSet;
 
@@ -12,20 +13,11 @@ public class AlphabetComparator implements Comparator<Polygraphy> {
         return o1.getTitle().compareTo(o2.getTitle());
     }
 
-    public void addToTreeSet(Polygraphy b1, Polygraphy b2, Polygraphy b3,
-                             Polygraphy b4, Polygraphy b5, Polygraphy b6,
-                             Polygraphy b7, Polygraphy b8, Polygraphy b9){
+    public void addToTreeSet(ArrayList<Polygraphy> list){
 
         TreeSet<Polygraphy> poly = new TreeSet<>(this);
-        poly.add(b1);
-        poly.add(b2);
-        poly.add(b3);
-        poly.add(b4);
-        poly.add(b5);
-        poly.add(b6);
-        poly.add(b7);
-        poly.add(b8);
-        poly.add(b9);
+
+        poly.addAll(list);
 
         outputSortedBooks(poly);
     }

@@ -1,4 +1,4 @@
-package Task4.Parent;
+package Task4.Entity.Parent;
 
 import Task4.Enums.Genres;
 

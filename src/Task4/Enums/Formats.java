@@ -1,4 +1,4 @@
-package Task4.Magazines;
+package Task4.Enums;
 
 public enum Formats {
     A4,

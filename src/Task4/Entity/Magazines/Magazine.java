@@ -1,9 +1,10 @@
-package Task4.Magazines;
+package Task4.Entity.Magazines;
 
 import Task4.Enums.Colors;
+import Task4.Enums.Formats;
 import Task4.Enums.Genres;
 import Task4.Enums.PublicationType;
-import Task4.Parent.Polygraphy;
+import Task4.Entity.Parent.Polygraphy;
 
 import java.util.Objects;
 

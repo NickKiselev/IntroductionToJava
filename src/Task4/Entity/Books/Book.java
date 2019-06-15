@@ -1,9 +1,9 @@
-package Task4.Books;
+package Task4.Entity.Books;
 
 import Task4.Enums.Colors;
 import Task4.Enums.Genres;
 import Task4.Enums.PublicationType;
-import Task4.Parent.Polygraphy;
+import Task4.Entity.Parent.Polygraphy;
 
 import java.util.Objects;
 

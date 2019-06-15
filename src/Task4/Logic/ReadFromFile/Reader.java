@@ -1,4 +1,4 @@
-package Task4.ReadFromFile;
+package Task4.Logic.ReadFromFile;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

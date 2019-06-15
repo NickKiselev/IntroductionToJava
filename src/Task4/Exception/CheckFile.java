@@ -1,6 +1,4 @@
-package Task4.Checking;
-
-import Task4.Except.ContainsException;
+package Task4.Exception;
 
 public class CheckFile {
 
