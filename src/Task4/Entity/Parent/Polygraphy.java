@@ -25,18 +25,22 @@ private final String SEPARATOR = "/";
 
 
 public Polygraphy(String[] param) {
-    this.title = param[0];
-    this.authorName = param[1];
-    this.countOfPages = param[2];
-    this.yearOfPublish = param[3];
-    this.cityOfPublish = param[4];
-    this.publishHouse = param[5];
+    if(param.length!=0) {
+        this.title = param[0];
+        this.authorName = param[1];
+        this.countOfPages = param[2];
+        this.yearOfPublish = param[3];
+        this.cityOfPublish = param[4];
+        this.publishHouse = param[5];
+    }
 }
 
 public Polygraphy(String title, String yearOfPublish, String countOfPages) {
-    this.title = title;
-    this.yearOfPublish = yearOfPublish;
-    this.countOfPages = countOfPages;
+    if(title != null && yearOfPublish != null && countOfPages != null) {
+        this.title = title;
+        this.yearOfPublish = yearOfPublish;
+        this.countOfPages = countOfPages;
+    }
 }
 
 public String getAuthorName() {

@@ -14,8 +14,11 @@ public class Book extends Polygraphy {
 
     public Book(String[] param, Colors bookendColor, Genres genre) {
         super(param);
-        this.bookendColor = bookendColor;
-        this.genre = genre;
+
+        if(bookendColor != null && genre != null) {
+            this.bookendColor = bookendColor;
+            this.genre = genre;
+        }
     }
 
     public Genres getGenre() {

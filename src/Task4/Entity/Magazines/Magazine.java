@@ -18,11 +18,13 @@ public class Magazine extends Polygraphy {
 
     public Magazine(String[] param, Colors coverColor, Genres genre, Formats format) {
         super(param[0], param[1], param[2]);
-        this.magazineNum = param[3];
-        this.months = param[4];
-        this.coverColor = coverColor;
-        this.genre = genre;
-        this.format = format;
+        if(param[3] != null && param[4] != null && coverColor != null && genre != null && format != null) {
+            this.magazineNum = param[3];
+            this.months = param[4];
+            this.coverColor = coverColor;
+            this.genre = genre;
+            this.format = format;
+        }
     }
 
     public String getMonths() {

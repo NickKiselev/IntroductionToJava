@@ -12,19 +12,19 @@ public class Reader {
     private String[] array = new String[6];
     private String line = null;
 
-    public String[] getArray(String location){
-        try {
-            BufferedReader bufferedReader = new BufferedReader(new FileReader(location));
-            int i = 0;
+    public String[] getArray(String location) {
+            try {
+                BufferedReader bufferedReader = new BufferedReader(new FileReader(location));
+                int i = 0;
 
-            while((line = bufferedReader.readLine())!= null){
-                array[i++] = line;
-            }
+                while ((line = bufferedReader.readLine()) != null) {
+                    array[i++] = line;
+                }
 
-        } catch (IOException e) {
-            e.printStackTrace();
-            log.info("error");
+            } catch (IOException e) {
+                e.printStackTrace();
+                log.info("error");
             }
-        return array;
-    }
+            return array;
+        }
 }
